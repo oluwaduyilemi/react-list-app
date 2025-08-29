@@ -1,12 +1,11 @@
-
+import UseNumber from './UseNumber'
 import './App.css'
-import UseArray from './Components/UseArray'
 
 function App() {
 
   return (
     <>
-        <UseArray/>
+    <UseNumber/>
     </>
   )
 }
